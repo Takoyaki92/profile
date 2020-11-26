@@ -78,13 +78,3 @@ a:hover {
   border-radius: 4px;
 }
 
-@media (max-width: 960px) {
-  /* For a screen < 960px, this CSS will be read */
-  .container {
-    width: 300px;
-  }
-  .image-round {
-    width: 150px;
-    height: auto;
-  }
-}
